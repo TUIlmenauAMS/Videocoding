@@ -1,0 +1,34 @@
+Jupyter installation Steps
+Here are the steps to install Jupyter on your machine:
+1) As a prerequisite install Anaconda distribution as it includes all the scientific python libraries and Jupyter as well.
+2)To start Jupyter, open a terminal in your desired directory(where you would save your jupyter notebooks) run the following command:
+
+jupyter notebook
+
+Alternative way to download Jupyter(using pip), first upgrade 'pip':
+
+pip3 install --upgrade pip
+
+Install Jupyter by following command:
+
+pip3 install jupyter
+
+Now write "jupyter notebook" in the terminal.
+Jupyter will start in the default browser automatically
+Font size and styling
+The "Custom.css" file contain the styles used for showing the enlarged font and different styles for lectures, this file should be copied to the folder ".jupyter\custom\".
+if "custom" folder is not present, then make new folder with the name "custom" and paste the file "custom.css" in it.
+
+--------------
+
+Here are files for the Python Jupyter Notebook, where you can see the slides in your browser, and where you can execute and even modify the python examples of the lecture inside your browser!
+
+Install the Jupyter notebook in a Linux terminal shell typing:
+
+sudo pip install jupyter
+
+Download the files to your computer, and in that directory, open a terminal shell and type
+
+jupyter notebbok&
+
+This should open a browser window with the slides and the "live" Python examples!
