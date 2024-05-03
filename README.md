@@ -10,6 +10,6 @@ Videocoding Support Materials
  
 ## Lectures
 
-The directory "LecturesJupyterNotebooks" contain Jupyter notebooks including thenPython examples and experiments. To let them run, download each lectures folder and then start them in with "jupyter notebook" oder "jupyter-lab" in a terminal shell.
+The directory "LecturesJupyterNotebooks" contains Jupyter notebooks including thenPython examples and experiments. To let them run, download each lectures folder and then start them in with "jupyter notebook" oder "jupyter-lab" in a terminal shell.
 
 Gerald Schuller
