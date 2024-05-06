@@ -1,5 +1,6 @@
 # Videocoding
-Videocoding Support Materials
+This repositroy contains supporting materials for the lecture "Video Coding" at Ilmenau University of Technology.
+It contains Python examples and Jupyter notebooks.
 
 ## Seminars
 
