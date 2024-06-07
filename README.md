@@ -6,6 +6,10 @@ It contains Python examples and Jupyter notebooks.
 
 The directory "LecturesJupyterNotebooks" contains Jupyter notebooks including the Python examples and experiments. To let them run, download each lectures folder and then start them in with "jupyter notebook" oder "jupyter-lab" in a terminal shell, or simply click on the "run in Colab" button to start a Google Colab instance in your browser.
 
+<a target="_blank" href="https://colab.research.google.com/github/TUIlmenauAMS/Videocoding/blob/main/LecturesJupterNotebooks/Lecture1/Lecture%201.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 ## Seminars
 
  - Seminars Introduction:<br>
