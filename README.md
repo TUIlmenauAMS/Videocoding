@@ -2,16 +2,20 @@
 This repositroy contains supporting materials for the lecture "Video Coding" at Ilmenau University of Technology.
 It contains Python examples and Jupyter notebooks.
 
+Our accompanying Chatbot: [Video Coding Tutor](https://chatgpt.com/g/g-SpWxPChDs-video-coding-tutor)
+
 ## Lectures
 
 The directory "LecturesJupyterNotebooks" contains Jupyter notebooks including the Python examples and experiments. To let them run, download each lectures folder and then start them in with "jupyter notebook" oder "jupyter-lab" in a terminal shell, or simply click on the "run in Colab" button to start a Google Colab instance in your browser.
 
 Lecture 1, Introduction:
+
 <a target="_blank" href="https://colab.research.google.com/github/TUIlmenauAMS/Videocoding/blob/main/LecturesJupterNotebooks/Lecture1/Lecture%201.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
 Lecture 2,Python Video Processing:
+
 <a target="_blank" href="https://colab.research.google.com/github/TUIlmenauAMS/Videocoding/blob/main/LecturesJupterNotebooks/Lecture2/Lecture%202.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
