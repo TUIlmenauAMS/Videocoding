@@ -90,6 +90,10 @@ Lecture 15, Stereo video coding:
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+Lecture 16, Neural-Network-Based Video Coding:
+
+[16_videocodingDeepLearning.pdf](https://github.com/TUIlmenauAMS/Videocoding/blob/main/LecturesJupterNotebooks/Lecture16/16_videocodingDeepLearning.pdf)
+
 ## Seminars
 
  - Seminars Introduction:<br>
