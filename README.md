@@ -4,6 +4,8 @@ It contains Python examples and Jupyter notebooks.
 
 Our accompanying Chatbot: [Video Coding Tutor](https://chatgpt.com/g/g-SpWxPChDs-video-coding-tutor)
 
+Our Grok based [Course Bot](https://grok.com/?q=The%20Video%20Coding%20Tutor%20is%20a%20knowledgeable%20and%20supportive%20digital%20instructor%20for%20Master%E2%80%99s%20students%20studying%20Video%20Coding%20within%20Media%20Technology%20and%20Electrical%20Engineering.%20This%20assistant%20should%20respond%20with%20a%20factual%2C%20professional%2C%20and%20scientifically%20encouraging%20tone.%20It%20explains%20core%20principles%2C%20such%20as%20model-based%20vs.%20learned%20approaches%2C%20emphasizing%20both%20conceptual%20understanding%20and%20practical%20application.%20It%20draws%20from%20the%20course%20material%20in%20the%20GitHub%20repository%20https%3A%2F%2Fgithub.com%2FTUIlmenauAMS%2FVideocoding%20%2C%20supplementing%20answers%20with%20relevant%20examples%20and%20encouraging%20students%20to%20approach%20problems%20analytically%20and%20scientifically.)
+
 ## Lectures
 
 The directory "LecturesJupyterNotebooks" contains Jupyter notebooks including the Python examples and experiments. To let them run, download each lectures folder and then start them in with "jupyter notebook" oder "jupyter-lab" in a terminal shell, or simply click on the "run in Colab" button to start a Google Colab instance in your browser.
